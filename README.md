@@ -28,3 +28,5 @@
 The following keys can be used to interact with the ecoSystem:
 
 <center><img src="readme_img/keys_img.png" alt="ecoSystem running" width="500"/></center>
+
+Each key will provide a different input to the system. Play around and see what happens! :)
