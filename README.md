@@ -6,17 +6,18 @@
 2. Once Processing is installed, proceed to Step 2.
 
 ### Step 2: Download the ecoSystem code from this repository.
-1. **Download all the code as a zip file.** This can be done by clicking the green button that says "<> Code ▾" (scroll up to the top of the page and you'll see it), and then clicking "Download ZIP".
+1. **Download all the code as a zip file.** This can be done by clicking the green button that says "<> Code ▾" (scroll up to the top of the page and you'll see it), and then clicking "Download ZIP". The ZIP will be called `ecoSystem-main.zip`.
 <a href="#"><img src="readme_img/download_img.png" /></a>
 
-2. Once the ZIP file is downloaded, **unzip the folder**.
+2. Once the ZIP file is downloaded, **unzip the folder** `ecoSystem-main.zip`.
 
 3. Next, **open the Processing application** on your computer. 
 
-4. In the Processing application, go to **File > Open, and navigate to wherever the unzipped ecoSystem folder is located**.
-5. **Open the `ecoSystem.pde` file** within the `ecoSystem` folder.
+4. In the Processing application, go to **File > Open, and navigate to wherever the unzipped `ecoSystem-main` folder is located**.
 
-6. You should see the `ecoSystem.pde` file open. There should also be tabs that have opened for all of the other necessary files.
+5. In the unzipped `ecoSystem-main` folder, **navigate into the folder `ecoSystem` and open the file `ecoSystem.pde`**. (`ecoSystem-main/ecoSystem/ecoSystem.pde`).
+
+6. You should see the `ecoSystem.pde` file open in Processing. There should also be tabs that have opened for all of the other necessary files.
 <a href="#"><img src="readme_img/ecoSystem_img.png" /></a>
 
 7. In Processing, there is a **play button (▶)** which will execute the code. All that needs to be done to run the code is to **press play**! You should see something like this (but with lots of movement):
