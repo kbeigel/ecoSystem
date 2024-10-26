@@ -20,7 +20,7 @@
 <a href="#"><img src="readme_img/ecoSystem_img.png" /></a>
 
 7. In Processing, there is a **play button (▶)** which will execute the code. All that needs to be done to run the code is to **press play**! You should see something like this (but with lots of movement):
-<center><img src="readme_img/ecoSystem_exe_img.png" alt="ecoSystem" width="500"/></center>
+<center><img src="readme_img/ecoSystem_exe_img.png" alt="ecoSystem"/></center>
 
 8. To stop the ecoSystem from running, you should be able to just close the window. If something freezes or the normal exit window button does not work, the Processing window (where the code is shown) should have a "stop" button that can kill the app. If that doesn't work, force quit the Processing app
 
