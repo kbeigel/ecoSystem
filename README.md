@@ -20,4 +20,5 @@
 
 ## How to play
 The following keys can be used to interact with the ecoSystem:
-<img src="readme_img/keys_img.png" alt="ecoSystem running" width="200"/>
+
+<center><img src="readme_img/keys_img.png" alt="ecoSystem running" width="500"/></center>
