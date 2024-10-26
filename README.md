@@ -15,7 +15,7 @@
 
 4. In the Processing application, go to **File > Open, and navigate to wherever the unzipped `ecoSystem-main` folder is located**.
 
-5. In the unzipped `ecoSystem-main` folder, **navigate into the folder `ecoSystem` and open the file `ecoSystem.pde`**. (`ecoSystem-main/ecoSystem/ecoSystem.pde`).
+5. In the unzipped `ecoSystem-main` folder, **navigate into the folder `ecoSystem` and open the file `ecoSystem.pde`** in the Processing application.
 
 6. You should see the `ecoSystem.pde` file open in Processing. There should also be tabs that have opened for all of the other necessary files.
 <a href="#"><img src="readme_img/ecoSystem_img.png" /></a>
