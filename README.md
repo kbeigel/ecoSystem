@@ -7,7 +7,7 @@
 
 ### Step 2: Download the ecoSystem code from this repository.
 1. **Download all the code as a zip file.** This can be done by clicking the green button that says "<> Code ▾" (scroll up to the top of the page and you'll see it), and then clicking "Download ZIP".
-![download the zip](readme_img/download_img.png)
+<a href="#"><img src="readme_img/download_img.png" /></a>
 
 2. Once the ZIP file is downloaded, unzip the folder.
 
@@ -17,7 +17,7 @@
 5. Open the `ecoSystem.pde` file within the `ecoSystem` folder.
 
 6. You should see the `ecoSystem.pde` file open. There should also be tabs that have opened for all of the other necessary files.
-![processing](readme_img/ecoSystem_img.png)
+<a href="#"><img src="readme_img/ecoSystem_img.png" /></a>
 
 7. In Processing, there is a play button (▶) which will execute the code. All that needs to be done to run the code is to press play! You should see something like this:
 ![ecoSystem](readme_img/ecoSystem_exe_img.png)
